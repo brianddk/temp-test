@@ -1,3 +1,3 @@
 Welcome to the temp-test wiki!
 
-[Some Page](Some-Test)
+[Some Page](Some-Test.md)
