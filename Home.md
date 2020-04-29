@@ -1,6 +1,5 @@
 ---
-title: My House
-display_metadata: false
+title: MyHouse
 ---
 
 Welcome to the temp-test wiki!
