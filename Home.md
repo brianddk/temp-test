@@ -1,3 +1,7 @@
 Welcome to the temp-test wiki!
 
-[[In Subdir]]
+* [[In Subdir]]
+* [[gollum.pdf]]
+* [[subdir/gollum.pdf]]
+* [[/subdir/gollum.pdf]]
+
