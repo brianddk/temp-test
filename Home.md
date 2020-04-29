@@ -3,7 +3,7 @@
 Welcome to the temp-test wiki!
 
 * [[In Subdir]]
-* [[btc.png]]
+* [In-subdir](In Subdir)
 * [[subdir/btc.png]]
-* [[/subdir/btc.png]]
+* ![imge](subdir/btc.png)
 
