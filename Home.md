@@ -1,6 +1,4 @@
----
-title: MyHouse
----
+<!-- --- title: MyHouse -->
 
 Welcome to the temp-test wiki!
 
