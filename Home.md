@@ -2,7 +2,7 @@
 
 Welcome to the temp-test wiki!
 
-* [[In Subdir]]
+* [[text|In Subdir]]
 * [In-subdir](In Subdir)
 * [In-subdir](In Subdir.md)
 * [In-subdir](subdir/In Subdir)
