@@ -1,3 +1,3 @@
 Welcome to the temp-test wiki!
 
-[Some Page](/subdir/In-Subdir)
+[[Some Page|In-Subdir]]
